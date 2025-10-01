@@ -136,7 +136,7 @@
 &trans  &kp LC(A)  &kp LS(LC(LEFT))  &kp LS(LC(DOWN))  &kp LS(LC(RIGHT))  &to 6     &kp END        &kp LEFT          &kp DOWN           &kp RIGHT      &kp SQT  &trans
 &trans  &kp LC(Z)  &kp LC(X)         &kp LC(C)         &kp LC(V)          &mo 7     &kp INSERT     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH  &kp DEL  &trans
                    &trans            &trans            &kp SPACE          &kp RALT  &kp RIGHT_GUI  &kp SPACE         &trans             &trans
-                   &trans            &trans            &mo 1              &to 0     &to 0          &trans            &trans             &trans
+                   &trans            &trans            &mo 10             &to 0     &to 0          &trans            &trans             &trans
             >;
         };
 
